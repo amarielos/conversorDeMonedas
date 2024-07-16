@@ -1,7 +1,8 @@
 <h1>Conversor de monedas</h1>
 <p>Consulta los tipos de cambio y convierte para dólar estadounidense(USD), quetzal guatemalteco(GTQ), real brasileño(BRL), peso argentino(ARS) y peso colombiano(COP).</p>
 
-<h4 align="center">Proyecto Finalizado</h3>
+<img src="conversor_badge.png">
+<h4 align="center">Proyecto Finalizado</h4>
 
 <h3>📁 Acceso al proyecto</h3>
 <ol>
